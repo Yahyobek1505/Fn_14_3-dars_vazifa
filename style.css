@@ -2,3 +2,10 @@ h1{
   color: rebeccapurple;
   font-size: 40px;
 }
+h2{
+  color: aqua;
+  background-color:blue;
+}
+p{
+  color: burlywood;
+}
